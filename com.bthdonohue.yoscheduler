@@ -9,7 +9,7 @@
     <key>RunAtLoad</key>
     <false/>
     <key>UserName</key>
-    <string>Donohue</string>
+    <string><YOUR MAC USERNAME></string>
     <key>Program</key>
     <string>/Users/<path to yo.sh>/yo.sh</string>
     <key>StartCalendarInterval</key>
